@@ -1,5 +1,6 @@
-# Roblox_Chat_Logs
-Usernamex User Interaction Dataset (RUID-2025)
+***
+
+# Roblox User Interaction Dataset (RUID-2025)
 
 **Status:** Active | **Data Type:** Chat Logs / Metadata | **Focus:** Social Dynamics & Trust and Safety
 
@@ -54,5 +55,4 @@ TOTAL PLAYERS: [Count]
 *   **Scam Prevention:** Analyzing the syntax of "free Robux" or "ban appeal" scam bots to create better regex filters.
 *   **Sociological Study:** Analyzing the correlation between "Account Age" and toxic behavior.
 
----
-*Maintained by [0yster]Analyzinglection is ongoing.*
+*Maintained by 0yster. Data collection is ongoing.*.
